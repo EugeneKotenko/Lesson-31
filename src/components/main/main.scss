@@ -1,0 +1,10 @@
+main {
+  min-width: 50%;
+  margin-top: 100px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
